@@ -1,10 +1,8 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "io.github.myhand_app.cutewallet",
-      "sha256_cert_fingerprints": ["9F:49:BB:2B:59:40:19:FA:4E:F3:6E:F6:AD:57:35:A9:43:4B:B8:08:6E:F2:1C:08:A6:18:FD:43:55:97:A0:E3"]
-    }
-  }
-]
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.myhand_app.twa",
+        "sha256_cert_fingerprints": ["A4:31:C9:E3:20:DD:70:E0:C6:02:BD:31:52:7E:87:CD:04:83:91:4F:03:2C:26:74:F8:8F:1F:9C:64:BC:97:AE"]
+      }
+    }]
